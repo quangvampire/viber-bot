@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  #ssl:
+    #enabled: true
+    #key-alias: springboot
+    #key-store: classpath:springboot.jks
+
+    #key-store-password: 123456
+
+application.viber-bot:
+  auth-token: 5029e1ca59a7dcfe-f72688c28b8330b1-facc766fac655a8a
+  webhook-url: https://webhook.site/514efe20-4376-46a9-b686-e109defa8f7a
+  name: QA
